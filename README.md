@@ -58,7 +58,9 @@ I am a Backend Developer with one year of experience.<br>
 ### :fire: My Github Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wisdou&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisdou)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisdou)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisdou&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
