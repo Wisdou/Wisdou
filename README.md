@@ -61,8 +61,3 @@ I am a Backend Developer with one year of experience.<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisdou)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisdou&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :bell: My Leetcode Stats :
-[![Leetcode Stats](https://leetcard.jacoblin.cool/dlisay430)](https://leetcode.com/dlisay430)
